@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.deps.json
+C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.runtimeconfig.json
+C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.dll
+C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.pdb
+C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.dll
+C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.pdb
