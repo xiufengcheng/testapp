@@ -6,8 +6,19 @@ namespace testapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this is my first line");
-            Console.WriteLine("this is my second line");
+            
+            int a = 5;
+            if(a<10)
+            {
+               Console.WriteLine("this is my first line");  
+            }
+            else
+            {
+               Console.WriteLine("this is my second line");
+               Console.Beep(1000,1000); //发出一个蜂鸣声
+            }
+           
+
         }
     }
 }

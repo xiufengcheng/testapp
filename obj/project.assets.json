@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\testapp\\testapp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\testapp\\testapp.csproj",
       "projectName": "testapp",
-      "projectPath": "c:\\Users\\Administrator\\Desktop\\testapp\\testapp.csproj",
-      "outputPath": "c:\\Users\\Administrator\\Desktop\\testapp\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\testapp\\testapp.csproj",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\testapp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/testapp.dll": "c:\\Users\\Administrator\\Desktop\\testapp\\bin\\placeholder\\netcoreapp1.1\\testapp.dll"
+        "lib/netcoreapp1.1/testapp.dll": "C:\\Users\\Administrator\\Desktop\\testapp\\bin\\placeholder\\netcoreapp1.1\\testapp.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
