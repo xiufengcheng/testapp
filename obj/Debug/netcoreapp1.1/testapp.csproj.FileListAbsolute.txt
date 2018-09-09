@@ -6,3 +6,11 @@ C:\Users\Administrator\Desktop\testapp\bin\Debug\netcoreapp1.1\testapp.pdb
 C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.dll
 C:\Users\Administrator\Desktop\testapp\obj\Debug\netcoreapp1.1\testapp.pdb
+G:\testapp\bin\Debug\netcoreapp1.1\testapp.deps.json
+G:\testapp\bin\Debug\netcoreapp1.1\testapp.runtimeconfig.json
+G:\testapp\bin\Debug\netcoreapp1.1\testapp.runtimeconfig.dev.json
+G:\testapp\bin\Debug\netcoreapp1.1\testapp.dll
+G:\testapp\bin\Debug\netcoreapp1.1\testapp.pdb
+G:\testapp\obj\Debug\netcoreapp1.1\testapp.AssemblyInfo.cs
+G:\testapp\obj\Debug\netcoreapp1.1\testapp.dll
+G:\testapp\obj\Debug\netcoreapp1.1\testapp.pdb
